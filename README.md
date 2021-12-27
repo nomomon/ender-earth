@@ -1,5 +1,7 @@
 # Ender Earth
 
+> Named after the Enderman from Minecraft — it teleports when you look at it.
+
 A webpage that tracks your eyes — every time you blink, the 360° world around you changes.
 
 ![banner](./assets/banner.png)
